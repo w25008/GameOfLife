@@ -1,10 +1,10 @@
 # GameOfLife
 
 This is one of my school project, a Java version of Conway's Game of Life.
-# これは私の学校の課題の一つで、コンウェイのライフゲームのJava版です。
+これは私の学校の課題の一つで、コンウェイのライフゲームのJava版です。
 
 Credit to the original inventor: Cambridge mathematician John Conway.
-# 原作者であるケンブリッジ大学の数学者、ジョン・コンウェイに感謝します。
+原作者であるケンブリッジ大学の数学者、ジョン・コンウェイに感謝します。
 
 ## Run
 
