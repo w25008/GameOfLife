@@ -1,8 +1,7 @@
 # GameOfLife
 
-Simple Java only. No HTML. No backend.
-
-Grid size: `120 x 120`
+This is one of my school project, a Java version of Conway's Game of Life.
+Credit to the original inventor: Cambridge mathematician John Conway.
 
 ## Run
 
