@@ -38,4 +38,3 @@ java GameOfLife
 6. `LifeRules.java`
 7. `GameStyle.java`
 =======
-# GameOfLife
