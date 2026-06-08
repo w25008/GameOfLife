@@ -1,6 +1,4 @@
 # GameOfLife
-<<<<<<< HEAD
-# Simple Game of Life Java
 
 Simple Java only. No HTML. No backend.
 
@@ -41,4 +39,3 @@ java GameOfLife
 7. `GameStyle.java`
 =======
 # GameOfLife
->>>>>>> origin/main
