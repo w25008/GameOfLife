@@ -30,7 +30,7 @@ java GameOfLife
 - `LifeRules.java` calculates the next generation
 - `GameStyle.java` stores colors, size, and speed
 
-## Best Reading Order
+## Reading Order
 
 1. `GameOfLife.java`
 2. `GameWindow.java`
